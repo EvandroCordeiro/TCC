@@ -17,7 +17,7 @@ namespace TCC.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your app description page.1";
+            ViewBag.Message = "Your app description page.";
 
             return View();
         }
